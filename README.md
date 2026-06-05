@@ -32,4 +32,4 @@ I embed with organizations to map real business processes and turn them into AI-
 
 ---
 
-📩 Let's connect on [LinkedIn] (https://www.linkedin.com/in/rodrigo-espinosa-quinteros/))
+📩 Let's connect on [LinkedIn](https://www.linkedin.com/in/rodrigo-espinosa-quinteros/)
